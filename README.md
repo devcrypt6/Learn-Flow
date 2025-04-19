@@ -123,7 +123,7 @@ We welcome contributions to **Learn-Flow**! Here’s how you can contribute:
 ### 1. **Google OAuth Login Screen**
 This screenshot showcases the **Google OAuth 2.0 login** integration, allowing users to securely sign in using their Google accounts. The login flow is designed to provide a seamless and privacy-conscious user experience, with minimal data access required.
 
-![Login Page](assets/images/login-page.png)
+![Login Page](assests/Login-page.png)
 
 ### 2. **User Dashboard View**
 The **dashboard** provides users with an overview of their interactions with the platform. For **Creators**, this is where they can manage uploaded content, while **Students** can access videos and interact with posted content. The dashboard offers easy navigation for a streamlined learning experience.
