@@ -118,6 +118,17 @@ We welcome contributions to **Learn-Flow**! Here’s how you can contribute:
 
 ---
 
+## Deployment
+
+You can access the live web application here: [Learn-Flow on Render](https://learn-flow-vguc.onrender.com/)
+
+This is where you can test out the platform with the full range of features:
+- **OAuth 2.0 Google Sign-In**: Log in using your Google account.
+- **Role-Based Access**: Experience both **Creator** and **Student** functionalities.
+- **Infinite Threaded Comments**: Engage in discussions under the videos.
+  
+---
+
 ## Screenshots
 
 ### 1. **Google OAuth Login Screen**
