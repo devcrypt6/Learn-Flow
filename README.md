@@ -120,11 +120,30 @@ We welcome contributions to **Learn-Flow**! Here’s how you can contribute:
 
 ## Screenshots
 
-![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page)
-_Example of the Google OAuth login screen._
+### 1. **Google OAuth Login Screen**
+This screenshot showcases the **Google OAuth 2.0 login** integration, allowing users to securely sign in using their Google accounts. The login flow is designed to provide a seamless and privacy-conscious user experience, with minimal data access required.
 
-![Video Page](https://via.placeholder.com/800x400.png?text=Video+Page)
-_Example of the video page with comments and discussion._
+![Login Page](assets/images/login-page.png)
+
+### 2. **User Dashboard View**
+The **dashboard** provides users with an overview of their interactions with the platform. For **Creators**, this is where they can manage uploaded content, while **Students** can access videos and interact with posted content. The dashboard offers easy navigation for a streamlined learning experience.
+
+![Dashboard](assests/DashBoard.png) 
+
+### 3. **User Profile View**
+The **profile view** allows users to manage and view their personal account details, such as their uploaded videos (for Creators) or their learning history (for Students). It provides a customizable space for users to track their activity on the platform.
+
+![Profile View](assests/Profile-view.png)
+
+### 4. **Infinite Threaded Comment System**
+This image demonstrates the **infinite threaded comment system** built into the platform. Users can post comments under videos, and replies to comments will nest indefinitely, allowing for detailed discussions and organized interaction around video content.
+
+![Comment System](assests/Comment.png)
+
+### 5. **Role-Based Access: Creator vs Student**
+This screenshot highlights the **role-based access control** (RBAC) system, showing the different user experiences for **Creators** and **Students**. **Creators** have the ability to upload and post videos, while **Students** can only view content. The interface adjusts according to the user's role, ensuring an appropriate and streamlined experience for each.
+
+![Role-Based Access](assests/Role-Base.png)
 
 ---
 
